@@ -2,7 +2,7 @@ import java.util.*;
 
 
 public class Subject implements java.io.Serializable{
-    //todo also share stats and neurons from subject to copy. otherwise no worky-worky
+    //todo also share stats and neurons from subject to copy.
 
     public float fitness;
     //ws - weight set
