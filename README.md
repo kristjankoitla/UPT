@@ -1,3 +1,3 @@
 # Gümnaasiumi praktiline uurimustöö.
 
-reupload.
+Uploaded from Drive after discovering the wonders of git.
